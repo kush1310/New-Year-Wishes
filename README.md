@@ -46,7 +46,6 @@ The webpage utilizes **media queries** to ensure a seamless experience on:
 
    ```bash
    git clone https://github.com/kush1310/New-Year-Wishes.git
-``
 
 ---
 
